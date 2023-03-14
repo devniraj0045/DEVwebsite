@@ -1,0 +1,20 @@
+@media only screen and (max-width:779px) {
+ .fb{font-size: 10px;
+  padding: 0px;
+}
+.ft{
+  font-size: 10px;
+  letter-spacing: 0px;
+
+}
+.imgBox img{
+  visibility: hidden;
+}
+
+  .banner .textBox h2{
+    color: #fff;
+    font-size: 1em;
+    /* text-shadow: 2px 2px 4px white; */
+    /* font-style: italic; */
+}
+}
