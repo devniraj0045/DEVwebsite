@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/devrahul;/static/css/main.fe2831dd.css",
+    "main.js": "/devrahul;/static/js/main.f3b5ceeb.js",
+    "static/js/787.f2a0fa2f.chunk.js": "/devrahul;/static/js/787.f2a0fa2f.chunk.js",
+    "static/media/rahulhd.png": "/devrahul;/static/media/rahulhd.fbb1a566df2d0d371267.png",
+    "static/media/hd.mp4": "/devrahul;/static/media/hd.7a9dca5a97423202b90c.mp4",
+    "static/media/rahul.png": "/devrahul;/static/media/rahul.3e2c5baa02cae4f28a6f.png",
+    "static/media/RahulCv.docx": "/devrahul;/static/media/RahulCv.961af075a9b594f2e72a.docx",
+    "static/media/red.png": "/devrahul;/static/media/red.c8b467bf799bdd733cdb.png",
+    "index.html": "/devrahul;/index.html",
+    "main.fe2831dd.css.map": "/devrahul;/static/css/main.fe2831dd.css.map",
+    "main.f3b5ceeb.js.map": "/devrahul;/static/js/main.f3b5ceeb.js.map",
+    "787.f2a0fa2f.chunk.js.map": "/devrahul;/static/js/787.f2a0fa2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe2831dd.css",
+    "static/js/main.f3b5ceeb.js"
+  ]
+}
