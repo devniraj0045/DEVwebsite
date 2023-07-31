@@ -13,7 +13,7 @@ const Services = () => {
         <div className="icon-wrapper">
        < FcGlobe />
         </div>
-        <h3>Front-End Development</h3>
+        <h3>Web developer Development</h3>
         <p>
         Bringing websites to life with interactive and intuitive front-end development.
         </p>
