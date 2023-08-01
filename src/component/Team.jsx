@@ -13,7 +13,7 @@ const Team = () => {
     <div className="row">
       <div className="col-12">
         <h2>Our Team Section</h2>
-        <p>Bootstrap 4 our team section source code we can use it for our clients, customers, testimonials, and any types of the section where we want to describe our people who are working with us</p>
+        <p></p>
       </div>
     </div>
     <hr className="mb-5 mt-4" />
@@ -23,8 +23,8 @@ const Team = () => {
           <img src={rahul} className="img-fluid" alt />
           <div className="member-info">
             <div className="member-detail">
-              <h4>Manish Kumar</h4>
-              <span>Web Designer</span>
+              <h4>Bigraj Sunuwar</h4>
+              <span>Graphic Designer</span>
             </div>
             <div className="social">
            
@@ -41,15 +41,15 @@ const Team = () => {
           </div>
         
         </div>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae aspernatur soluta expedita architecto ipsa? Placeat nesciunt blanditiis dolor perspiciatis esse consectetur modi non nobis. Iste doloremque eveniet impedit veniam sunt!</p>
+   <p></p>
       </div>
       <div className="col-lg-3 col-md-6">
         <div className="member">
           <img src={rahul} className="img-fluid" alt />
           <div className="member-info">
             <div className="member-detail">
-              <h4>Manish Kumar</h4>
-              <span>Web Designer</span>
+              <h4>Kshittiz Chaudhary</h4>
+              <span> Flutter Developer </span>
             </div>
             <div className="social">
            
@@ -66,15 +66,15 @@ const Team = () => {
           </div>
         
         </div>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae aspernatur soluta expedita architecto ipsa? Placeat nesciunt blanditiis dolor perspiciatis esse consectetur modi non nobis. Iste doloremque eveniet impedit veniam sunt!</p>
+   <p></p>
       </div>
       <div className="col-lg-3 col-md-6">
         <div className="member">
           <img src={rahul} className="img-fluid" alt />
           <div className="member-info">
             <div className="member-detail">
-              <h4>Manish Kumar</h4>
-              <span>Web Designer</span>
+              <h4>Suresh Rolaya</h4>
+              <span>Web Developer </span>
             </div>
             <div className="social">
            
@@ -82,7 +82,7 @@ const Team = () => {
         <a href='ff' className=''><FaLinkedin /></a>
         <a href='ff' className=''><FaWhatsapp/></a>
         <a href='ff' className=''><FaPhoneAlt /></a>
-        <br/> <span><Link>Aboutme</Link></span> 
+        <br/> <span><a href="https://rokayasuresh.github.io/MyPersonalPortfolio/">Aboutme</a></span> 
       
       
             </div>
@@ -91,15 +91,15 @@ const Team = () => {
           </div>
         
         </div>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae aspernatur soluta expedita architecto ipsa? Placeat nesciunt blanditiis dolor perspiciatis esse consectetur modi non nobis. Iste doloremque eveniet impedit veniam sunt!</p>
+   <p></p>
       </div>
       <div className="col-lg-3 col-md-6">
         <div className="member">
           <img src={rahul} className="img-fluid" alt />
           <div className="member-info">
             <div className="member-detail">
-              <h4>Manish Kumar</h4>
-              <span>Web Designer</span>
+              <h4>Nikesh Deula</h4>
+              <span>Web Developer</span>
             </div>
             <div className="social">
            
@@ -107,7 +107,7 @@ const Team = () => {
         <a href='ff' className=''><FaLinkedin /></a>
         <a href='ff' className=''><FaWhatsapp/></a>
         <a href='ff' className=''><FaPhoneAlt /></a>
-        <br/> <span><Link>Aboutme</Link></span> 
+        <br/> <span><a href="https://rokayasuresh.github.io/MyPersonalPortfolio/">Aboutme</a></span> 
       
       
             </div>
@@ -116,7 +116,7 @@ const Team = () => {
           </div>
         
         </div>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae aspernatur soluta expedita architecto ipsa? Placeat nesciunt blanditiis dolor perspiciatis esse consectetur modi non nobis. Iste doloremque eveniet impedit veniam sunt!</p>
+   <p></p>
       </div>
 
     </div>

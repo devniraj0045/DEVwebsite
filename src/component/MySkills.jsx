@@ -61,7 +61,7 @@ const Services = () => {
         <h3>Domain & Hosting</h3>
         <p>
           
-        Secure your online presence with reliable domains and hosting solutions.
+        Secure presence with reliable domains and hosting solutions.
         </p>
       </div>
     </div>

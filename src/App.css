@@ -8,6 +8,7 @@
 .fb a{
   padding-right:10px ;
 }
+
 .ft{
   font-size: 15px;
   color:#fff;
@@ -41,7 +42,7 @@ a.navbar-brand:hover{
 }
 .navbar
 {
-  background: linear-gradient(white,red) !important;
+  background:black!important;
   
  
 }
@@ -185,7 +186,7 @@ section {
   width: 100%;
   display: grid;
   place-items: center;
-  background: linear-gradient(	#1fa1b8,#6b574e);
+  background:#2F4F4F;
 
 }
 .row {
@@ -349,7 +350,7 @@ caption .social-links a{
 
       section.our-team {
         padding: 70px 0px;
-        background:linear-gradient(blue,orange,black,#d0aa5b	rgb(208, 170, 91)) !important;
+        background:black !important;
         text-align: center;
         color: #fff;
         height:auto;
@@ -365,7 +366,7 @@ caption .social-links a{
     }
     .our-team h2 {
         font-size: 30px;
-        color: black;
+        color: white;
         font-weight: normal;
     }
     .our-team p {
@@ -666,5 +667,88 @@ footer .bottom-details .bottom_text{
     width: 100%;
   }
 }
+
+/* ---- reset ---- */
+
+body {
+  margin: 0;
+  font:normal 75% Arial, Helvetica, sans-serif;
+}
+
+canvas {
+  display: block;
+  vertical-align: bottom;
+}
+
+/* ---- particles.js container ---- */
+
+#particles-js {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #b61924;
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+/* ---- stats.js ---- */
+
+.count-particles{
+  background: #000022;
+  position: absolute;
+  top: 48px;
+  left: 0;
+  width: 80px;
+  color: #13E8E9;
+  font-size: .8em;
+  text-align: left;
+  text-indent: 4px;
+  line-height: 14px;
+  padding-bottom: 2px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+}
+
+.js-count-particles{
+  font-size: 1.1em;
+}
+
+#stats,
+.count-particles{
+  -webkit-user-select: none;
+}
+
+#stats{
+  border-radius: 3px 3px 0 0;
+  overflow: hidden;
+}
+
+.count-particles{
+  border-radius: 0 0 3px 3px;
+}
+
+
+
+
 /* About me  */
+.progress
+{
+margin-left: 20px;
+    margin-top: 20px;
+  margin-bottom: 12px;
+}
+
+.label{
+  margin-top: 40px;
+}
+
+.hel
+{
+  margin-top: 10px;
+  margin-bottom: 20px;
+  height: 50px;
+}
+
 

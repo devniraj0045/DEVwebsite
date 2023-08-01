@@ -13,7 +13,7 @@ import { Link } from 'react-router-dom';
 const Navbar = () => {
   return (
    <>
-                <div className='py-1 bg-warning' id="home">
+                <div className='py-1 bg-danger' id="home">
                 <div class="container">
   <div class="row">
     <div class="col ft ">
@@ -24,7 +24,7 @@ const Navbar = () => {
     
     
     <div class="col fb">
-      <a href='http://m.me/Devrahul2003' target="_blank" className=''>< FaFacebookMessenger /></a>
+      <a href='http://m.me/Devrahul2003' target="_blank" className="face">< FaFacebookMessenger /></a>
       <a href='https://www.linkedin.com/in/rahul-kumar-thakur-009226216/' target="_blank" className=''><FaLinkedin /></a>
       <a href='https://wa.me/9779821810341?text=Hi%20There!' target="_blank" className=''><FaWhatsapp /></a>
       <a href="tel:9761730002" class="  "> <FaPhoneAlt/><span></span></a>
@@ -39,7 +39,7 @@ const Navbar = () => {
                 </div>
                 <nav className="navbar navbar-expand-lg navbar-light  px-5">
                <div className="container-fluid">
-                <Link to=""className="navbar-brand" href=""><img src={ red } alt="logo" className="logo"></img><strong py-2><i></i></strong> </Link>
+                <Link to=""className="navbar-brand" href="#"><img src={ red } alt="logo" className="logo"></img><strong py-2><i></i></strong> </Link>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon" />
                 </button>

@@ -13,7 +13,7 @@ const Footer = () => {
         <span className="logo_name">RAHUL KUMAR THAKUR</span>
       </div>
       <div className="media-icons">
-      <Link href='ff' className=''><FaFacebookMessenger /></Link>
+      <Link href='http://m.me/Devrahul2003' className=''><FaFacebookMessenger /></Link>
         <Link href='ff' className=''><FaLinkedin /></Link>
         <Link href='ff' className=''><FaWhatsapp/></Link>
         <Link href='ff' className=''><FaPhoneAlt /></Link>

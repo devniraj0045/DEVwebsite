@@ -8,10 +8,13 @@ import Team from './Team';
 
 
 
+
 const Home = () => {
   return (
     <>
- <div className="banner">
+
+
+ <div className="banner" >
  <video  autoPlay muted loop>
         <source src={hd}type="video/mp4" />
       </video> 
@@ -46,8 +49,10 @@ const Home = () => {
 
 
 
+
     </>
   )
 }
+
 
 export default Home
